@@ -6,7 +6,7 @@ This is my first project on github so I've probably made lots of mistakes
 
 # Due to the crazy size of the files, you will have to generate them again
 
-You must download the mandelbrot video using the drive link provided down below:
+You must download the mandelbrot video using the drive link provided down below then drag it into the image_generation folder:
 
 https://drive.google.com/file/d/1-_2BsQQn5ir967gLakOhiQcZZsvErKTq/view?usp=drive_link
 
