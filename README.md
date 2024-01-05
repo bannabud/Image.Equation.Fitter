@@ -6,5 +6,5 @@ This project involves generating images of various differential equations to tra
 
 Remember to install the requirements.txt file using:
 
-cd Github_folders
+
 pip install -r requirements.txt
