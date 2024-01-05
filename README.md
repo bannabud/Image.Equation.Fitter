@@ -1,5 +1,8 @@
 #  Image.Equation.Fitter
 
+![alt text](https://github.com/bannabud/Image.Equation.Fitter/blob/6e0daf1ad0d91fa1efee1307989011765f2750fb/output.png)
+
+
 I'm trying to create a model that can take in square images of psychedelic/ Fractal/ Dream-state imagery and output the differential equations/ Model that best fit the image
 
 This is my first project on github so I've probably made lots of mistakes 
